@@ -131,29 +131,44 @@ fla9s
 ####I
 | I           |ISO | Country
 |-------------|----|-----------------
-| ![](hu.png) | HU | Hungary |
-| ![](hu.png) | HU | Hungary |
-| ![](hu.png) | HU | Hungary |
-| ![](hu.png) | HU | Hungary |
-| ![](hu.png) | HU | Hungary |
-Iceland 	IS 	ISL 	352 	ISO 3166-2:IS
-India 	IN 	IND 	356 	ISO 3166-2:IN
-Indonesia 	ID 	IDN 	360 	ISO 3166-2:ID
-Iran, Islamic Republic of 	IR 	IRN 	364 	ISO 3166-2:IR
-Iraq 	IQ 	IRQ 	368 	ISO 3166-2:IQ
-Ireland 	IE 	IRL 	372 	ISO 3166-2:IE
-Isle of Man 	IM 	IMN 	833 	ISO 3166-2:IM
-Israel 	IL 	ISR 	376 	ISO 3166-2:IL
-Italy 	IT 	ITA 	380 	ISO 3166-2:IT
+| ![](is.png) | IS | Iceland |
+| ![](in.png) | IN | India |
+| ![](id.png) | ID | Indonesia |
+| ![](ir.png) | IR | Iran, Islamic Republic of |
+| ![](iq.png) | IQ | Iraq |
+| ![](ie.png) | IE | Ireland |
+| ![](im.png) | IM | Isle of Man |
+| ![](il.png) | IL | Israel |
+| ![](it.png) | IT | Italy |
 ####J
 | J           |ISO | Country
 |-------------|----|-----------------
+| ![](jm.png) | JM | Jamaica |
+| ![](jp.png) | JP | Japan |
+| ![](je.png) | JE | Jersey |
+| ![](jo.png) | JO | Jordan |
 ####K
 | K           |ISO | Country
 |-------------|----|-----------------
+| ![](kz.png) | KZ | Kazakhstan |
+| ![](ke.png) | KE | Kenya |
+| ![](ki.png) | KI | Kiribati |
+| ![](kp.png) | KP | Korea, Democratic People's Republic of |
+| ![](kr.png) | KR | Korea, Republic of |
+| ![](kw.png) | KW | Kuwait |
+| ![](kg.png) | KG | Kyrgyzstan |
 ####L
 | L           |ISO | Country
 |-------------|----|-----------------
+| ![](la.png) | LA | Lao People's Democratic Republic |
+| ![](lv.png) | LV | Latvia |
+| ![](lb.png) | LB | Lebanon |
+| ![](ls.png) | LS | Lesotho |
+| ![](lr.png) | LR | Liberia |
+| ![](ly.png) | LY | Libya |
+| ![](li.png) | LI | Liechtenstein |
+| ![](lt.png) | LT | Lithuania |
+| ![](lu.png) | LU | Luxembourg |
 ####M
 | M           |ISO | Country
 |-------------|----|-----------------
