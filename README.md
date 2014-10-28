@@ -3,15 +3,14 @@ fla9s
 
 9x9 flags
 
-####A[B](#B)
-| A           |ISO | Country        
+####A[B](#b)
+| A           |ISO | Country
 |-------------|----|-----------------
-| ![](af.png) | AF | Afghanistan] |
+| ![](af.png) | AF | Afghanistan |
 | ![](ax.png) | AX | Åland Islands |
 | ![](al.png) | AL | Albania |
 | ![](dz.png) | DZ | Algeria |
 | ![](as.png) | AS | American Samoa |
-| ![](xx.png) | XX | XX |
 | ![](ad.png) | AD | Andorra |
 | ![](ao.png) | AO | Angola |
 | ![](ai.png) | AI | Anguilla |
@@ -24,7 +23,7 @@ fla9s
 | ![](at.png) | AT | Austria |
 | ![](az.png) | AZ | Azerbaijan |
 ####B
-| B           |ISO | Country        
+| B           |ISO | Country
 |-------------|----|-----------------
 | ![](bs.png) | BS | Bahamas |
 | ![](bh.png) | BH | Bahrain |
@@ -48,3 +47,27 @@ fla9s
 | ![](bf.png) | BF | Burkina Faso |
 | ![](bi.png) | BI | Burundi |
 ####C
+| C           |ISO | Country
+| ![](kh.png) | KH | Cambodia |
+| ![](cm.png) | CM | Cameroon |
+| ![](ca.png) | CA | Canada |
+| ![](cv.png) | CV | Cabo Verde |
+| ![](ky.png) | KY | Cayman Islands |
+| ![](cf.png) | CF | Central African Republic |
+| ![](td.png) | TD | Chad |
+| ![](cl.png) | CL | Chile |
+| ![](cn.png) | CN | China |
+| ![](cx.png) | CX | Christmas Island |
+| ![](cc.png) | CC | Cocos (Keeling) Islands |
+| ![](co.png) | CO | Colombia |
+| ![](km.png) | KM | Comoros |
+| ![](cg.png) | CG | Congo |
+| ![](cd.png) | CD | Congo, the Democratic Republic of the |
+| ![](ck.png) | CK | Cook Islands |
+| ![](cr.png) | CR | Costa Rica |
+| ![](ci.png) | CI | Côte d'Ivoire |
+| ![](hr.png) | HR | Croatia |
+| ![](cu.png) | CU | Cuba |
+| ![](cw.png) | CW | Curaçao |
+| ![](cy.png) | CY | Cyprus |
+| ![](cz.png) | CZ | Czech Republic |
