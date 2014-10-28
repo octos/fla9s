@@ -92,16 +92,59 @@ fla9s
 ####F
 | F           |ISO | Country
 |-------------|----|-----------------
-| ![](et.png) | ET | Ethiopia |
+| ![](fk.png) | FK | Falkland Islands (Malvinas) |
+| ![](fo.png) | FO | Faroe Islands |
+| ![](fj.png) | FJ | Fiji |
+| ![](fi.png) | FI | Finland |
+| ![](fr.png) | FR | France |
+| ![](gf.png) | GF | French Guiana |
+| ![](pf.png) | PF | French Polynesia |
+| ![](tf.png) | TF | French Southern Territories |
 ####G
 | G           |ISO | Country
 |-------------|----|-----------------
+| ![](ga.png) | GA | Gabon |
+| ![](gm.png) | GM | Gambia |
+| ![](ge.png) | GE | Georgia |
+| ![](de.png) | DE | Germany |
+| ![](gh.png) | GH | Ghana |
+| ![](gi.png) | GI | Gibraltar |
+| ![](gr.png) | GR | Greece |
+| ![](gl.png) | GL | Greenland |
+| ![](gd.png) | GD | Grenada |
+| ![](gp.png) | GP | Guadeloupe |
+| ![](gu.png) | GU | Guam |
+| ![](gt.png) | GT | Guatemala |
+| ![](gg.png) | GG | Guernsey |
+| ![](gn.png) | GN | Guinea |
+| ![](gw.png) | GW | Guinea-Bissau |
+| ![](gy.png) | GY | Guyana |
 ####H
 | H           |ISO | Country
 |-------------|----|-----------------
+| ![](ht.png) | HT | Haiti |
+| ![](hm.png) | HM | Heard Island and McDonald Islands |
+| ![](va.png) | VA | Holy See (Vatican City State) |
+| ![](hn.png) | HN | Honduras |
+| ![](hk.png) | HK | Hong Kong |
+| ![](hu.png) | HU | Hungary |
 ####I
 | I           |ISO | Country
 |-------------|----|-----------------
+| ![](hu.png) | HU | Hungary |
+| ![](hu.png) | HU | Hungary |
+| ![](hu.png) | HU | Hungary |
+| ![](hu.png) | HU | Hungary |
+| ![](hu.png) | HU | Hungary |
+Iceland 	IS 	ISL 	352 	ISO 3166-2:IS
+India 	IN 	IND 	356 	ISO 3166-2:IN
+Indonesia 	ID 	IDN 	360 	ISO 3166-2:ID
+Iran, Islamic Republic of 	IR 	IRN 	364 	ISO 3166-2:IR
+Iraq 	IQ 	IRQ 	368 	ISO 3166-2:IQ
+Ireland 	IE 	IRL 	372 	ISO 3166-2:IE
+Isle of Man 	IM 	IMN 	833 	ISO 3166-2:IM
+Israel 	IL 	ISR 	376 	ISO 3166-2:IL
+Italy 	IT 	ITA 	380 	ISO 3166-2:IT
 ####J
 | J           |ISO | Country
 |-------------|----|-----------------
