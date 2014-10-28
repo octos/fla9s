@@ -3,7 +3,7 @@ fla9s
 
 9x9 flags
 
-####A[B](#b)
+####A[B](#b)[C](#c)[D](#d)[E](#e)[F](#f)
 | A           |ISO | Country
 |-------------|----|-----------------
 | ![](af.png) | AF | Afghanistan |
@@ -48,6 +48,7 @@ fla9s
 | ![](bi.png) | BI | Burundi |
 ####C
 | C           |ISO | Country
+|-------------|----|-----------------
 | ![](kh.png) | KH | Cambodia |
 | ![](cm.png) | CM | Cameroon |
 | ![](ca.png) | CA | Canada |
@@ -71,3 +72,23 @@ fla9s
 | ![](cw.png) | CW | Curaçao |
 | ![](cy.png) | CY | Cyprus |
 | ![](cz.png) | CZ | Czech Republic |
+####D
+| D           |ISO | Country
+|-------------|----|-----------------
+| ![](dk.png) | DK | Denmark |
+| ![](dj.png) | DJ | Djibouti |
+| ![](dm.png) | DM | Dominica |
+| ![](do.png) | DO | Dominican Republic |
+####E
+| E           |ISO | Country
+|-------------|----|-----------------
+| ![](ec.png) | EC | Ecuador |
+| ![](eg.png) | EG | Egypt |
+| ![](sv.png) | SV | El Salvador |
+| ![](gq.png) | GQ | Equatorial Guinea |
+| ![](er.png) | ER | Eritrea |
+| ![](ee.png) | EE | Estonia |
+| ![](et.png) | ET | Ethiopia |
+####F
+| F           |ISO | Country
+|-------------|----|-----------------
