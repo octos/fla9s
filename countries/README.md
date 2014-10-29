@@ -15,7 +15,7 @@ fla9s
 | ![](ao.png) | AO | Angola |
 | ![](ai.png) | AI | Anguilla |
 | ![](aq.png) | AQ | Antarctica |
-| ![](ag.png) | XX | Antigua and Barbuda |
+| ![](ag.png) | AG | Antigua and Barbuda |
 | ![](ar.png) | AR | Argentina |
 | ![](am.png) | AM | Armenia |
 | ![](aw.png) | AW | Aruba |
@@ -269,9 +269,9 @@ fla9s
 | ![](gs.png) | GS | South Georgia and the South Sandwich Islands |
 | ![](ss.png) | SS | South Sudan |
 | ![](es.png) | ES | Spain |
-| ![](so.png) | SO | Sri Lanka |
-| ![](lk.png) | LK | Sudan |
-| ![](sd.png) | SD | Suriname |
+| ![](lk.png) | LK | Sri Lanka |
+| ![](sd.png) | SD | Sudan |
+| ![](sr.png) | SR | Suriname |
 | ![](sj.png) | SJ | Svalbard and Jan Mayen |
 | ![](sz.png) | SZ | Swaziland |
 | ![](se.png) | SE | Sweden |
