@@ -10,3 +10,5 @@ fla9s
 ![](/countries/is.png)
 ![](/countries/us.png)
 ![](/countries/th.png)
+
+![](map.png)
