@@ -6,22 +6,22 @@ fla9s
 ####A[B](#b)[C](#c)[D](#d)[E](#e)[F](#f)[G](#g)[H](#h)[I](#i)[J](#j)[K](#k)[L](#l)[M](#m)[N](#n)[O](#o)[P](#p)[Q](#q)[R](#r)[S](#s)[T](#t)[U](#u)[V](#v)[W](#w)[Y](#y)[Z](#z)
 | A           |ISO | Country
 |-------------|----|-----------------
-| ![](af.png) | AF | Afghanistan |
-| ![](ax.png) | AX | Åland Islands |
-| ![](al.png) | AL | Albania |
-| ![](dz.png) | DZ | Algeria |
-| ![](as.png) | AS | American Samoa |
-| ![](ad.png) | AD | Andorra |
-| ![](ao.png) | AO | Angola |
-| ![](ai.png) | AI | Anguilla |
-| ![](aq.png) | AQ | Antarctica |
-| ![](ag.png) | AG | Antigua and Barbuda |
-| ![](ar.png) | AR | Argentina |
-| ![](am.png) | AM | Armenia |
-| ![](aw.png) | AW | Aruba |
-| ![](au.png) | AU | Australia |
-| ![](at.png) | AT | Austria |
-| ![](az.png) | AZ | Azerbaijan |
+| ![af](af.png) | AF | Afghanistan |
+| ![ax](ax.png) | AX | Åland Islands |
+| ![al](al.png) | AL | Albania |
+| ![dz](dz.png) | DZ | Algeria |
+| ![as](as.png) | AS | American Samoa |
+| ![ad](ad.png) | AD | Andorra |
+| ![ao](ao.png) | AO | Angola |
+| ![ai](ai.png) | AI | Anguilla |
+| ![aq](aq.png) | AQ | Antarctica |
+| ![ag](ag.png) | AG | Antigua and Barbuda |
+| ![ar](ar.png) | AR | Argentina |
+| ![am](am.png) | AM | Armenia |
+| ![aw](aw.png) | AW | Aruba |
+| ![au](au.png) | AU | Australia |
+| ![at](at.png) | AT | Austria |
+| ![az](az.png) | AZ | Azerbaijan |
 ####B
 | B           |ISO | Country
 |-------------|----|-----------------
@@ -155,6 +155,7 @@ fla9s
 | ![](ki.png) | KI | Kiribati |
 | ![](kp.png) | KP | Korea, Democratic People's Republic of |
 | ![](kr.png) | KR | Korea, Republic of |
+| ![](xk.png) | XK*| Kosovo |
 | ![](kw.png) | KW | Kuwait |
 | ![](kg.png) | KG | Kyrgyzstan |
 ####L
