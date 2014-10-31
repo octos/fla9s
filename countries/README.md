@@ -1,244 +1,330 @@
 fla9s
 =====
 
-9x9 flags [old](https://github.com/octos/fla9s/blob/d3d995f799f50eae9239a366f0c25998fd0c75c6/countries/README.md "old")
+9x9 flags
 
-
-- ![h3-](../bw/h3-.png "h3-") : ![de](de.png) ![at](at.png) ![am](am.png) ![](bg.png)
-  - ![az](az.png) ![ar](ar.png)
-- ![v3-](../bw/v3-.png "v3-") :  ![be](be.png) ![td](td.png)
-  - ![af](af.png) ![ca](ca.png) ![ad](ad.png) ![bb](bb.png)
-- ![h2-](../bw/h2-.png "h2-") : ![pl](pl.png) ![ua](ua.png)
-  - ![ao](ao.png)
-- ![v2-](../bw/v2-.png "v2-")
-  - ![dz](dz.png)
-- ![nor-](../bw/nor-.png "nor-") : ![se](se.png) ![fi](fi.png)
-- ![nor+](../bw/nor+.png "nor+") : ![is](is.png) ![no](no.png) ![fo](fo.png) ![ax](ax.png)
-- `can`: ![can](/bw/can.png) ![us](us.png) ![ai](ai.png) ![au](au.png)
-- `str`: ![str](/bw/str.png)
-- ![cir](../bw/cir.png "cir")`:  ![jp](jp.png) ![kr](kr.png) ![bd](bd.png)
-- `etc`: ![al](al.png) ![aq](aq.png) ![ag](ag.png)
-- ![tri+](../bw/tri+.png "tri+")`: ![as](as.png)
-- ![trih3](../bw/trih3.png "trih3")`: ![bs](bs.png)
-- `todo`:![aw](aw.png)
-- ![bh](bh.png)
-
-
-
-
-![by](by.png)
-![bz](bz.png)
-![bj](bj.png)
-![bm](bm.png)
-![bt](bt.png)
-![bo](bo.png)
-![bq](bq.png)
-![ba](ba.png)
-![bw](bw.png)
-![bv](bv.png)
-![br](br.png)
-![io](io.png)
-![bn](bn.png)
-![bf](bf.png)
-![bi](bi.png)
-![kh](kh.png)
-![cm](cm.png)
-![cv](cv.png)
-![ky](ky.png)
-![cf](cf.png)
-![cl](cl.png)
-![cn](cn.png)
-![cx](cx.png)
-![cc](cc.png)
-![co](co.png)
-![km](km.png)
-![cg](cg.png)
-![cd](cd.png)
-![ck](ck.png)
-![cr](cr.png)
-![ci](ci.png)
-![cu](cu.png)
-![cw](cw.png)
-![cy](cy.png)
-![cz](cz.png)
-![dk](dk.png)
-![dj](dj.png)
-![dm](dm.png)
-![do](do.png)
-![ec](ec.png)
-![eg](eg.png)
-![sv](sv.png)
-![gq](gq.png)
-![er](er.png)
-![ee](ee.png)
-![et](et.png)
-![fk](fk.png)
-![fj](fj.png)
-![](fr.png)
-![](gf.png)
-![](pf.png)
-![](tf.png)
-![](ga.png)
-![](gm.png)
-![](ge.png)
-
-![](gh.png)
-![](gi.png)
-![](gr.png)
-![](gl.png)
-![](gd.png)
-![](gp.png)
-![](gu.png)
-![](gt.png)
-![](gg.png)
-![](gn.png)
-![](gw.png)
-![](gy.png)
-![](ht.png)
-![](hm.png)
-![](va.png)
-![](hn.png)
-![](hk.png)
-![](hu.png)
-
-![](in.png)
-![](id.png)
-![](ir.png)
-![](iq.png)
-![](ie.png)
-![](im.png)
-![](il.png)
-![](it.png)
-![](jm.png)
-![](je.png)
-![](jo.png)
-![](kz.png)
-![](ke.png)
-![](ki.png)
-![](kp.png)
-![](kw.png)
-![](kg.png)
-![](la.png)
-![](lv.png)
-![](lb.png)
-![](ls.png)
-![](lr.png)
-![](ly.png)
-![](li.png)
-![](lt.png)
-![](lu.png)
-![](mo.png)
-![](mk.png)
-![](mg.png)
-![](mw.png)
-![](my.png)
-![](mv.png)
-![](ml.png)
-![](mt.png)
-![](mh.png)
-![](mq.png)
-![](mr.png)
-![](mu.png)
-![](yt.png)
-![](mx.png)
-![](fm.png)
-![](md.png)
-![](mc.png)
-![](mn.png)
-![](me.png)
-![](ms.png)
-![](ma.png)
-![](mz.png)
-![](mm.png)
-![](na.png)
-![](nr.png)
-![](np.png)
-![](nl.png)
-![](nc.png)
-![](nz.png)
-![](ni.png)
-![](ne.png)
-![](ng.png)
-![](nu.png)
-![](nf.png)
-![](mp.png)
-![](om.png)
-![](pk.png)
-![](pw.png)
-![](ps.png)
-![](pa.png)
-![](pg.png)
-![](py.png)
-![](pe.png)
-![](ph.png)
-![](pn.png)
-![](pt.png)
-![](pr.png)
-![](qa.png)
-![](re.png)
-![](ro.png)
-![](ru.png)
-![](rw.png)
-![](bl.png)
-![](sh.png)
-![](kn.png)
-![](lc.png)
-![](mf.png)
-![](pm.png)
-![](vc.png)
-![](ws.png)
-![](sm.png)
-![](st.png)
-![](sa.png)
-![](sn.png)
-![](rs.png)
-![](sc.png)
-![](sl.png)
-![](sg.png)
-![](sx.png)
-![](sk.png)
-![](si.png)
-![](sb.png)
-![](so.png)
-![](za.png)
-![](gs.png)
-![](ss.png)
-![](es.png)
-![](lk.png)
-![](sd.png)
-![](sr.png)
-![](sj.png)
-![](sz.png)
-![](ch.png)
-![](sy.png)
-![](tw.png)
-![](tj.png)
-![](tz.png)
-![](th.png)
-![](tl.png)
-![](tg.png)
-![](tk.png)
-![](to.png)
-![](tt.png)
-![](tn.png)
-![](tr.png)
-![](tm.png)
-![](tc.png)
-![](tv.png)
-![](ug.png)
-![](ae.png)
-![](gb.png)
-
-![](um.png)
-![](uy.png)
-![](uz.png)
-![](vu.png)
-![](ve.png)
-![](vn.png)
-![](vg.png)
-![](vi.png)
-![](wf.png)
-![](eh.png)
-![](ye.png)
-![](zm.png)
-![](zw.png)
+####A[B](#b)[C](#c)[D](#d)[E](#e)[F](#f)[G](#g)[H](#h)[I](#i)[J](#j)[K](#k)[L](#l)[M](#m)[N](#n)[O](#o)[P](#p)[Q](#q)[R](#r)[S](#s)[T](#t)[U](#u)[V](#v)[W](#w)[Y](#y)[Z](#z)
+A             |ISO | Country
+--------------|----|-----------------
+![af](af.png) | AF | Afghanistan
+![ax](ax.png) | AX | Åland Islands
+![al](al.png) | AL | Albania
+![dz](dz.png) | DZ | Algeria
+![as](as.png) | AS | American Samoa
+![ad](ad.png) | AD | Andorra
+![ao](ao.png) | AO | Angola
+![ai](ai.png) | AI | Anguilla
+![aq](aq.png) | AQ | Antarctica
+![ag](ag.png) | AG | Antigua and Barbuda
+![ar](ar.png) | AR | Argentina
+![am](am.png) | AM | Armenia
+![aw](aw.png) | AW | Aruba
+![au](au.png) | AU | Australia
+![at](at.png) | AT | Austria
+![az](az.png) | AZ | Azerbaijan
+####B
+B             |ISO | Country
+--------------|----|-----------------
+![bs](bs.png) | BS | Bahamas
+![bh](bh.png) | BH | Bahrain
+![bd](bd.png) | BD | Bangladesh
+![bb](bb.png) | BB | Barbados
+![by](by.png) | BY | Belarus
+![be](be.png) | BE | Belgium
+![bz](bz.png) | BZ | Belize
+![bj](bj.png) | BJ | Benin
+![bm](bm.png) | BM | Bermuda
+![bt](bt.png) | BT | Bhutan
+![bo](bo.png) | BO | Bolivia, Plurinational State of
+![bq](bq.png) | BQ | Bonaire, Sint Eustatius and Saba
+![ba](ba.png) | BA | Bosnia and Herzegovina
+![bw](bw.png) | BW | Botswana
+![bv](bv.png) | BV | Bouvet Island
+![br](br.png) | BR | Brazil
+![io](io.png) | IO | British Indian Ocean Territory
+![bn](bn.png) | BN | Brunei Darussalam
+![bg](bg.png) | BG | Bulgaria
+![bf](bf.png) | BF | Burkina Faso
+![bi](bi.png) | BI | Burundi
+####C
+| C           |ISO | Country
+|-------------|----|-----------------
+| ![kh](kh.png) | KH | Cambodia |
+| ![cm](cm.png) | CM | Cameroon |
+| ![ca](ca.png) | CA | Canada |
+| ![cv](cv.png) | CV | Cabo Verde |
+| ![ky](ky.png) | KY | Cayman Islands |
+| ![cf](cf.png) | CF | Central African Republic |
+| ![td](td.png) | TD | Chad |
+| ![cl](cl.png) | CL | Chile |
+| ![cn](cn.png) | CN | China |
+| ![cx](cx.png) | CX | Christmas Island |
+| ![cc](cc.png) | CC | Cocos (Keeling) Islands |
+| ![co](co.png) | CO | Colombia |
+| ![](km.png) | KM | Comoros |
+| ![](cg.png) | CG | Congo |
+| ![](cd.png) | CD | Congo, the Democratic Republic of the |
+| ![](ck.png) | CK | Cook Islands |
+| ![](cr.png) | CR | Costa Rica |
+| ![](ci.png) | CI | Côte d'Ivoire |
+| ![](hr.png) | HR | Croatia |
+| ![](cu.png) | CU | Cuba |
+| ![](cw.png) | CW | Curaçao |
+| ![](cy.png) | CY | Cyprus |
+| ![](cz.png) | CZ | Czech Republic |
+####D
+| D           |ISO | Country
+|-------------|----|-----------------
+| ![](dk.png) | DK | Denmark |
+| ![](dj.png) | DJ | Djibouti |
+| ![](dm.png) | DM | Dominica |
+| ![](do.png) | DO | Dominican Republic |
+####E
+| E           |ISO | Country
+|-------------|----|-----------------
+| ![](ec.png) | EC | Ecuador |
+| ![](eg.png) | EG | Egypt |
+| ![](sv.png) | SV | El Salvador |
+| ![](gq.png) | GQ | Equatorial Guinea |
+| ![](er.png) | ER | Eritrea |
+| ![](ee.png) | EE | Estonia |
+| ![](et.png) | ET | Ethiopia |
+####F
+| F           |ISO | Country
+|-------------|----|-----------------
+| ![](fk.png) | FK | Falkland Islands (Malvinas) |
+| ![](fo.png) | FO | Faroe Islands |
+| ![](fj.png) | FJ | Fiji |
+| ![](fi.png) | FI | Finland |
+| ![](fr.png) | FR | France |
+| ![](gf.png) | GF | French Guiana |
+| ![](pf.png) | PF | French Polynesia |
+| ![](tf.png) | TF | French Southern Territories |
+####G
+| G           |ISO | Country
+|-------------|----|-----------------
+| ![](ga.png) | GA | Gabon |
+| ![](gm.png) | GM | Gambia |
+| ![](ge.png) | GE | Georgia |
+| ![](de.png) | DE | Germany |
+| ![](gh.png) | GH | Ghana |
+| ![](gi.png) | GI | Gibraltar |
+| ![](gr.png) | GR | Greece |
+| ![](gl.png) | GL | Greenland |
+| ![](gd.png) | GD | Grenada |
+| ![](gp.png) | GP | Guadeloupe |
+| ![](gu.png) | GU | Guam |
+| ![](gt.png) | GT | Guatemala |
+| ![](gg.png) | GG | Guernsey |
+| ![](gn.png) | GN | Guinea |
+| ![](gw.png) | GW | Guinea-Bissau |
+| ![](gy.png) | GY | Guyana |
+####H
+| H           |ISO | Country
+|-------------|----|-----------------
+| ![](ht.png) | HT | Haiti |
+| ![](hm.png) | HM | Heard Island and McDonald Islands |
+| ![](va.png) | VA | Holy See (Vatican City State) |
+| ![](hn.png) | HN | Honduras |
+| ![](hk.png) | HK | Hong Kong |
+| ![](hu.png) | HU | Hungary |
+####I
+| I           |ISO | Country
+|-------------|----|-----------------
+| ![](is.png) | IS | Iceland |
+| ![](in.png) | IN | India |
+| ![](id.png) | ID | Indonesia |
+| ![](ir.png) | IR | Iran, Islamic Republic of |
+| ![](iq.png) | IQ | Iraq |
+| ![](ie.png) | IE | Ireland |
+| ![](im.png) | IM | Isle of Man |
+| ![](il.png) | IL | Israel |
+| ![](it.png) | IT | Italy |
+####J
+| J           |ISO | Country
+|-------------|----|-----------------
+| ![](jm.png) | JM | Jamaica |
+| ![](jp.png) | JP | Japan |
+| ![](je.png) | JE | Jersey |
+| ![](jo.png) | JO | Jordan |
+####K
+| K           |ISO | Country
+|-------------|----|-----------------
+| ![](kz.png) | KZ | Kazakhstan |
+| ![](ke.png) | KE | Kenya |
+| ![](ki.png) | KI | Kiribati |
+| ![](kp.png) | KP | Korea, Democratic People's Republic of |
+| ![](kr.png) | KR | Korea, Republic of |
+| ![](xk.png) | XK*| Kosovo |
+| ![](kw.png) | KW | Kuwait |
+| ![](kg.png) | KG | Kyrgyzstan |
+####L
+| L           |ISO | Country
+|-------------|----|-----------------
+| ![](la.png) | LA | Lao People's Democratic Republic |
+| ![](lv.png) | LV | Latvia |
+| ![](lb.png) | LB | Lebanon |
+| ![](ls.png) | LS | Lesotho |
+| ![](lr.png) | LR | Liberia |
+| ![](ly.png) | LY | Libya |
+| ![](li.png) | LI | Liechtenstein |
+| ![](lt.png) | LT | Lithuania |
+| ![](lu.png) | LU | Luxembourg |
+####M
+| M           |ISO | Country
+|-------------|----|-----------------
+| ![](mo.png) | MO | Macao |
+| ![](mk.png) | MK | Macedonia, the former Yugoslav Republic of |
+| ![](mg.png) | MG | Madagascar |
+| ![](mw.png) | MW | Malawi |
+| ![](my.png) | MY | Malaysia |
+| ![](mv.png) | MV | Maldives |
+| ![](ml.png) | ML | Mali |
+| ![](mt.png) | MT | Malta |
+| ![](mh.png) | MH | Marshall Islands |
+| ![](mq.png) | MQ | Martinique |
+| ![](mr.png) | MR | Mauritania |
+| ![](mu.png) | MU | Mauritius |
+| ![](yt.png) | YT | Mayotte |
+| ![](mx.png) | MX | Mexico |
+| ![](fm.png) | FM | Micronesia, Federated States of |
+| ![](md.png) | MD | Moldova, Republic of |
+| ![](mc.png) | MC | Monaco |
+| ![](mn.png) | MN | Mongolia |
+| ![](me.png) | ME | Montenegro |
+| ![](ms.png) | MS | Montserrat |
+| ![](ma.png) | MA | Morocco |
+| ![](mz.png) | MZ | Mozambique |
+| ![](mm.png) | MM | Myanmar (Burma) |
+####N
+| N           |ISO | Country
+|-------------|----|-----------------
+| ![](na.png) | NA | Namibia |
+| ![](nr.png) | NR | Nauru |
+| ![](np.png) | NP | Nepal |
+| ![](nl.png) | NL | Netherlands |
+| ![](nc.png) | NC | New Caledonia |
+| ![](nz.png) | NZ | New Zealand |
+| ![](ni.png) | NI | Nicaragua |
+| ![](ne.png) | NE | Niger |
+| ![](ng.png) | NG | Nigeria |
+| ![](nu.png) | NU | Niue |
+| ![](nf.png) | NF | Norfolk Island |
+| ![](mp.png) | MP | Northern Mariana Islands |
+| ![](no.png) | NO | Norway |
+####O
+| O           |ISO | Country
+|-------------|----|-----------------
+| ![](om.png) | OM | Oman |
+####P
+| P           |ISO | Country
+|-------------|----|-----------------
+| ![](pk.png) | PK | Pakistan |
+| ![](pw.png) | PW | Palau |
+| ![](ps.png) | PS | Palestine, State of |
+| ![](pa.png) | PA | Panama |
+| ![](pg.png) | PG | Papua New Guinea |
+| ![](py.png) | PY | Paraguay |
+| ![](pe.png) | PE | Peru |
+| ![](ph.png) | PH | Philippines |
+| ![](pn.png) | PN | Pitcairn |
+| ![](pl.png) | PL | Poland |
+| ![](pt.png) | PT | Portugal |
+| ![](pr.png) | PR | Puerto Rico |
+####Q
+| Q           |ISO | Country
+|-------------|----|-----------------
+| ![](qa.png) | QA | Qatar |
+####R
+| R           |ISO | Country
+|-------------|----|-----------------
+| ![](re.png) | RE | Réunion |
+| ![](ro.png) | RO | Romania |
+| ![](ru.png) | RU | Russian Federation |
+| ![](rw.png) | RW | Rwanda |
+####S
+| S           |ISO | Country
+|-------------|----|-----------------
+| ![](bl.png) | BL | Saint Barthélemy |
+| ![](sh.png) | SH | Saint Helena, Ascension and Tristan da Cunha |
+| ![](kn.png) | KN | Saint Kitts and Nevis |
+| ![](lc.png) | LC | Saint Lucia |
+| ![](mf.png) | MF | Saint Martin (French part) |
+| ![](pm.png) | PM | Saint Pierre and Miquelon |
+| ![](vc.png) | VC | Saint Vincent and the Grenadines |
+| ![](ws.png) | WS | Samoa |
+| ![](sm.png) | SM | San Marino |
+| ![](st.png) | ST | Sao Tome and Principe |
+| ![](sa.png) | SA | Saudi Arabia |
+| ![](sn.png) | SN | Senegal |
+| ![](rs.png) | RS | Serbia |
+| ![](sc.png) | SC | Seychelles |
+| ![](sl.png) | SL | Sierra Leone |
+| ![](sg.png) | SG | Singapore |
+| ![](sx.png) | SX | Sint Maarten (Dutch part) |
+| ![](sk.png) | SK | Slovakia |
+| ![](si.png) | SI | Slovenia |
+| ![](sb.png) | SB | Solomon Islands |
+| ![](so.png) | SO | Somalia |
+| ![](za.png) | ZA | South Africa |
+| ![](gs.png) | GS | South Georgia and the South Sandwich Islands |
+| ![](ss.png) | SS | South Sudan |
+| ![](es.png) | ES | Spain |
+| ![](lk.png) | LK | Sri Lanka |
+| ![](sd.png) | SD | Sudan |
+| ![](sr.png) | SR | Suriname |
+| ![](sj.png) | SJ | Svalbard and Jan Mayen |
+| ![](sz.png) | SZ | Swaziland |
+| ![](se.png) | SE | Sweden |
+| ![](ch.png) | CH | Switzerland |
+| ![](sy.png) | SY | Syrian Arab Republic |
+####T
+| T           |ISO | Country
+|-------------|----|-----------------
+| ![](tw.png) | TW | Taiwan, Province of China |
+| ![](tj.png) | TJ | Tajikistan |
+| ![](tz.png) | TZ | Tanzania, United Republic of |
+| ![](th.png) | TH | Thailand |
+| ![](tl.png) | TL | Timor-Leste |
+| ![](tg.png) | TG | Togo |
+| ![](tk.png) | TK | Tokelau |
+| ![](to.png) | TO | Tonga |
+| ![](tt.png) | TT | Trinidad and Tobago |
+| ![](tn.png) | TN | Tunisia |
+| ![](tr.png) | TR | Turkey |
+| ![](tm.png) | TM | Turkmenistan |
+| ![](tc.png) | TC | Turks and Caicos Islands |
+| ![](tv.png) | TV | Tuvalu |
+####U
+| U           |ISO | Country
+|-------------|----|-----------------
+| ![](ug.png) | UG | Uganda |
+| ![](ua.png) | UA | Ukraine |
+| ![](ae.png) | AE | United Arab Emirates |
+| ![](gb.png) | GB | United Kingdom |
+| ![](us.png) | US | United States |
+| ![](um.png) | UM | United States Minor Outlying Islands |
+| ![](uy.png) | UY | Uruguay |
+| ![](uz.png) | UZ | Uzbekistan |
+####V
+| V           |ISO | Country
+|-------------|----|-----------------
+| ![](vu.png) | VU | Vanuatu |
+| ![](ve.png) | VE | Venezuela, Bolivarian Republic of |
+| ![](vn.png) | VN | Viet Nam |
+| ![](vg.png) | VG | Virgin Islands, British |
+| ![](vi.png) | VI | Virgin Islands, U.S. |
+####W
+| W           |ISO | Country
+|-------------|----|-----------------
+| ![](wf.png) | WF | Wallis and Futuna  |
+| ![](eh.png) | EH | Western Sahara |
+####Y
+| Y           |ISO | Country
+|-------------|----|-----------------
+| ![](ye.png) | YE | Yemen |
+####Z
+| Z           |ISO | Country
+|-------------|----|-----------------
+| ![](zm.png) | ZM | Zambia |
+| ![](zw.png) | ZW | Zimbabwe |
