@@ -1,7 +1,7 @@
 fla9s
 =====
 
-9x9 flags
+9x9 flags [old](https://github.com/octos/fla9s/blob/d3d995f799f50eae9239a366f0c25998fd0c75c6/countries/README.md "old")
 
 - h2-: ![pl](pl.png) ![ua](ua.png)
 - h2+:
