@@ -3,13 +3,14 @@ fla9s
 
 9x9 flags [old](https://github.com/octos/fla9s/blob/d3d995f799f50eae9239a366f0c25998fd0c75c6/countries/README.md "old")
 
-- ![h2](/bw/h2.png "h2-") : ![pl](pl.png) ![ua](ua.png)
-  - `h2+`:
+
 - ![h3](/bw/h3.png "h3-") : ![de](de.png) ![at](at.png) ![am](am.png) ![](bg.png)
   - `h3+`: ![az](az.png) ![ar](ar.png)
-- `v2 `:
 - ![v3](/bw/v3.png "v3-") :  ![be](be.png) ![td](td.png)
-- `v3+`: ![af](af.png) ![ca](ca.png)
+  - `v3+`: ![af](af.png) ![ca](ca.png)
+- ![h2](/bw/h2.png "h2-") : ![pl](pl.png) ![ua](ua.png)
+  - `h2+`:
+- `v2 `:
 - ![nor-](/bw/nor-.png "nor-") : ![se](se.png) ![fi](fi.png)
 - ![nor+](/bw/nor+.png "nor+") : ![is](is.png) ![no](no.png) ![fo](fo.png)
 - `can`: ![can](/bw/can.png) ![us](us.png)
