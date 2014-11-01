@@ -3,7 +3,6 @@ fla9s
 
 9x9 flags
 
-####A[B](#b)[C](#c)[D](#d)[E](#e)[F](#f)[G](#g)[H](#h)[I](#i)[J](#j)[K](#k)[L](#l)[M](#m)[N](#n)[O](#o)[P](#p)[Q](#q)[R](#r)[S](#s)[T](#t)[U](#u)[V](#v)[W](#w)[Y](#y)[Z](#z)
 A             |ISO | Country
 --------------|----|-----------------
 ![af](af.png) | AF | Afghanistan
@@ -22,7 +21,6 @@ A             |ISO | Country
 ![au](au.png) | AU | Australia
 ![at](at.png) | AT | Austria
 ![az](az.png) | AZ | Azerbaijan
-####B
 B             |ISO | Country
 --------------|----|-----------------
 ![bs](bs.png) | BS | Bahamas
