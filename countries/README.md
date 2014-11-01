@@ -3,6 +3,8 @@ fla9s
 
 9x9 flags
 
+![Br](ai.png)![it](bm.png)![it](io.png)![ish](ky.png)![Ov](vg.png)![er](fk.png)![se](gi.png)![as](ms.png)![Terr](pn.png)![it](gs.png)![ories](tc.png)
+
 ![flag](../bw/v3-.png) |ISO | Country
 --------------|----|-----------------
 ![af](af.png) | AF | Afghanistan
