@@ -6,7 +6,7 @@ fla9s
 ![Br](ai.png)![it](bm.png)![it](io.png)![ish](ky.png)![Ov](vg.png)![er](fk.png)![se](gi.png)![as](ms.png)![Terr](pn.png)![it](gs.png)![ories](tc.png)
 
 ![flag](../bw/v3-.png) |ISO | Country
---------------|----|-----------------
+-------------:|----|-----------------
 ![af](af.png) | AF | Afghanistan
 ![ax](ax.png) | AX | Åland Islands
 ![al](al.png) | AL | Albania
@@ -244,7 +244,10 @@ fla9s
 ![ae](ae.png) | AE | United Arab Emirates
 ![gb](gb.png) | GB | United Kingdom
 ![us](us.png) | US | United States
-![um](um.png)![um-navassa](um-navassa.png)![um-palmyra](um-palmyra.png) | UM | United States Minor Outlying Islands
+![um](um.png)
+![um-midway](um-midway.png)
+![um-navassa](um-navassa.png)
+![um-palmyra](um-palmyra.png) | UM | United States Minor Outlying Islands
 ![uy](uy.png) | UY | Uruguay
 ![uz](uz.png) | UZ | Uzbekistan
 ![vu](vu.png) | VU | Vanuatu
