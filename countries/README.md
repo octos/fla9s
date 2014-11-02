@@ -102,158 +102,158 @@ fla9s
 ![gn](gn.png) | GN | Guinea
 ![gw](gw.png) | GW | Guinea-Bissau
 ![gy](gy.png) | GY | Guyana
-![](ht.png) | HT | Haiti
-![](hm.png) | HM | Heard Island and McDonald Islands
-![](va.png) | VA | Holy See (Vatican City State)
-![](hn.png) | HN | Honduras
-![](hk.png) | HK | Hong Kong
-![](hu.png) | HU | Hungary
-![](is.png) | IS | Iceland
-![](in.png) | IN | India
-![](id.png) | ID | Indonesia
-![](ir.png) | IR | Iran, Islamic Republic of
-![](iq.png) | IQ | Iraq
-![](ie.png) | IE | Ireland
-![](im.png) | IM | Isle of Man
-![](il.png) | IL | Israel
-![](it.png) | IT | Italy
-![](jm.png) | JM | Jamaica
-![](jp.png) | JP | Japan
-![](je.png) | JE | Jersey
-![](jo.png) | JO | Jordan
-![](kz.png) | KZ | Kazakhstan
-![](ke.png) | KE | Kenya
-![](ki.png) | KI | Kiribati
-![](kp.png) | KP | Korea, Democratic People's Republic of
-![](kr.png) | KR | Korea, Republic of
-![](xk.png) | XK*| Kosovo
-![](kw.png) | KW | Kuwait
-![](kg.png) | KG | Kyrgyzstan
-![](la.png) | LA | Lao People's Democratic Republic
-![](lv.png) | LV | Latvia
-![](lb.png) | LB | Lebanon
-![](ls.png) | LS | Lesotho
-![](lr.png) | LR | Liberia
-![](ly.png) | LY | Libya
-![](li.png) | LI | Liechtenstein
-![](lt.png) | LT | Lithuania
-![](lu.png) | LU | Luxembourg
-![](mo.png) | MO | Macao
-![](mk.png) | MK | Macedonia, the former Yugoslav Republic of |
-![](mg.png) | MG | Madagascar |
-![](mw.png) | MW | Malawi |
-![](my.png) | MY | Malaysia |
-![](mv.png) | MV | Maldives |
-![](ml.png) | ML | Mali |
-![](mt.png) | MT | Malta |
-![](mh.png) | MH | Marshall Islands |
-![](mq.png) | MQ | Martinique |
-![](mr.png) | MR | Mauritania |
-![](mu.png) | MU | Mauritius |
-![](yt.png) | YT | Mayotte |
-![](mx.png) | MX | Mexico |
-![](fm.png) | FM | Micronesia, Federated States of |
-![](md.png) | MD | Moldova, Republic of |
-![](mc.png) | MC | Monaco |
-![](mn.png) | MN | Mongolia |
-![](me.png) | ME | Montenegro |
-![](ms.png) | MS | Montserrat |
-![](ma.png) | MA | Morocco |
-![](mz.png) | MZ | Mozambique |
-![](mm.png) | MM | Myanmar (Burma) |
-![](na.png) | NA | Namibia |
-![](nr.png) | NR | Nauru |
-![](np.png) | NP | Nepal |
-![](nl.png) | NL | Netherlands |
-![](nc.png) | NC | New Caledonia |
-![](nz.png) | NZ | New Zealand |
-![](ni.png) | NI | Nicaragua |
-![](ne.png) | NE | Niger |
-![](ng.png) | NG | Nigeria |
-![](nu.png) | NU | Niue |
-![](nf.png) | NF | Norfolk Island |
-![](mp.png) | MP | Northern Mariana Islands |
-![](no.png) | NO | Norway |
-![](om.png) | OM | Oman |
-![](pk.png) | PK | Pakistan |
-![](pw.png) | PW | Palau |
-![](ps.png) | PS | Palestine, State of |
-![](pa.png) | PA | Panama |
-![](pg.png) | PG | Papua New Guinea |
-![](py.png) | PY | Paraguay |
-![](pe.png) | PE | Peru |
-![](ph.png) | PH | Philippines |
-![](pn.png) | PN | Pitcairn |
-![](pl.png) | PL | Poland |
-![](pt.png) | PT | Portugal |
-![](pr.png) | PR | Puerto Rico |
-![](qa.png) | QA | Qatar |
-![](re.png) | RE | Réunion |
-![](ro.png) | RO | Romania |
-![](ru.png) | RU | Russian Federation |
-![](rw.png) | RW | Rwanda |
-![](bl.png) | BL | Saint Barthélemy |
-![](sh.png) | SH | Saint Helena, Ascension and Tristan da Cunha |
-![](kn.png) | KN | Saint Kitts and Nevis |
-![](lc.png) | LC | Saint Lucia |
-![](mf.png) | MF | Saint Martin (French part) |
-![](pm.png) | PM | Saint Pierre and Miquelon |
-![](vc.png) | VC | Saint Vincent and the Grenadines |
-![](ws.png) | WS | Samoa |
-![](sm.png) | SM | San Marino |
-![](st.png) | ST | Sao Tome and Principe |
-![](sa.png) | SA | Saudi Arabia |
-![](sn.png) | SN | Senegal |
-![](rs.png) | RS | Serbia |
-![](sc.png) | SC | Seychelles |
-![](sl.png) | SL | Sierra Leone |
-![](sg.png) | SG | Singapore |
-![](sx.png) | SX | Sint Maarten (Dutch part) |
-![](sk.png) | SK | Slovakia |
-![](si.png) | SI | Slovenia |
-![](sb.png) | SB | Solomon Islands |
-![](so.png) | SO | Somalia |
-![](za.png) | ZA | South Africa |
-![](gs.png) | GS | South Georgia and the South Sandwich Islands |
-![](ss.png) | SS | South Sudan |
-![](es.png) | ES | Spain |
-![](lk.png) | LK | Sri Lanka |
-![](sd.png) | SD | Sudan |
-![](sr.png) | SR | Suriname |
-![](sj.png) | SJ | Svalbard and Jan Mayen |
-![](sz.png) | SZ | Swaziland |
-![](se.png) | SE | Sweden |
-![](ch.png) | CH | Switzerland |
-![](sy.png) | SY | Syrian Arab Republic |
-![](tw.png) | TW | Taiwan, Province of China |
-![](tj.png) | TJ | Tajikistan |
-![](tz.png) | TZ | Tanzania, United Republic of |
-![](th.png) | TH | Thailand |
-![](tl.png) | TL | Timor-Leste |
-![](tg.png) | TG | Togo |
-![](tk.png) | TK | Tokelau |
-![](to.png) | TO | Tonga |
-![](tt.png) | TT | Trinidad and Tobago |
-![](tn.png) | TN | Tunisia |
-![](tr.png) | TR | Turkey |
-![](tm.png) | TM | Turkmenistan |
-![](tc.png) | TC | Turks and Caicos Islands |
-![](tv.png) | TV | Tuvalu |
-![](ug.png) | UG | Uganda |
-![](ua.png) | UA | Ukraine |
-![](ae.png) | AE | United Arab Emirates |
-![](gb.png) | GB | United Kingdom |
-![](us.png) | US | United States |
-![](um.png) | UM | United States Minor Outlying Islands |
-![](uy.png) | UY | Uruguay |
-![](uz.png) | UZ | Uzbekistan |
-![](vu.png) | VU | Vanuatu |
-![](ve.png) | VE | Venezuela, Bolivarian Republic of |
-![](vn.png) | VN | Viet Nam |
-![](vg.png) | VG | Virgin Islands, British |
-![](vi.png) | VI | Virgin Islands, U.S. |
-![](wf.png) | WF | Wallis and Futuna  |
-![](eh.png) | EH | Western Sahara |
-![](ye.png) | YE | Yemen |
-![](zm.png) | ZM | Zambia |
-![](zw.png) | ZW | Zimbabwe |
+![ht](ht.png) | HT | Haiti
+(![](au.png)) | HM | Heard Island and McDonald Islands
+![va](va.png) | VA | Holy See (Vatican City State)
+![hn](hn.png) | HN | Honduras
+![hk](hk.png) | HK | Hong Kong
+![hu](hu.png) | HU | Hungary
+![is](is.png) | IS | Iceland
+![in](in.png) | IN | India
+![id](id.png) | ID | Indonesia
+![ir](ir.png) | IR | Iran, Islamic Republic of
+![iq](iq.png) | IQ | Iraq
+![ie](ie.png) | IE | Ireland
+![im](im.png) | IM | Isle of Man
+![il](il.png) | IL | Israel
+![it](it.png) | IT | Italy
+![jm](jm.png) | JM | Jamaica
+![jp](jp.png) | JP | Japan
+![je](je.png) | JE | Jersey
+![jo](jo.png) | JO | Jordan
+![kz](kz.png) | KZ | Kazakhstan
+![ke](ke.png) | KE | Kenya
+![ki](ki.png) | KI | Kiribati
+![kp](kp.png) | KP | Korea, Democratic People's Republic of
+![kr](kr.png) | KR | Korea, Republic of
+![xk](xk.png) | XK*| Kosovo
+![kw](kw.png) | KW | Kuwait
+![kg](kg.png) | KG | Kyrgyzstan
+![la](la.png) | LA | Lao People's Democratic Republic
+![lv](lv.png) | LV | Latvia
+![lb](lb.png) | LB | Lebanon
+![ls](ls.png) | LS | Lesotho
+![lr](lr.png) | LR | Liberia
+![ly](ly.png) | LY | Libya
+![li](li.png) | LI | Liechtenstein
+![lt](lt.png) | LT | Lithuania
+![lu](lu.png) | LU | Luxembourg
+![mo](mo.png) | MO | Macao
+![mk](mk.png) | MK | Macedonia, the former Yugoslav Republic of
+![mg](mg.png) | MG | Madagascar
+![mw](mw.png) | MW | Malawi
+![my](my.png) | MY | Malaysia
+![mv](mv.png) | MV | Maldives
+![ml](ml.png) | ML | Mali
+![mt](mt.png) | MT | Malta
+![mh](mh.png) | MH | Marshall Islands
+![mq](mq.png) | MQ | Martinique
+![mr](mr.png) | MR | Mauritania
+![mu](mu.png) | MU | Mauritius
+![yt](yt.png) | YT | Mayotte
+![mx](mx.png) | MX | Mexico
+![fm](fm.png) | FM | Micronesia, Federated States of
+![md](md.png) | MD | Moldova, Republic of
+![mc](mc.png) | MC | Monaco
+![mn](mn.png) | MN | Mongolia
+![me](me.png) | ME | Montenegro
+![ms](ms.png) | MS | Montserrat
+![ma](ma.png) | MA | Morocco
+![mz](mz.png) | MZ | Mozambique
+![mm](mm.png) | MM | Myanmar (Burma)
+![na](na.png) | NA | Namibia
+![nr](nr.png) | NR | Nauru
+![np](np.png) | NP | Nepal
+![nl](nl.png) | NL | Netherlands
+![nc](nc.png) | NC | New Caledonia
+![nz](nz.png) | NZ | New Zealand
+![ni](ni.png) | NI | Nicaragua
+![ne](ne.png) | NE | Niger
+![ng](ng.png) | NG | Nigeria
+![nu](nu.png) | NU | Niue
+![nf](nf.png) | NF | Norfolk Island
+![mp](mp.png) | MP | Northern Mariana Islands
+![no](no.png) | NO | Norway
+![om](om.png) | OM | Oman
+![pk](pk.png) | PK | Pakistan
+![pw](pw.png) | PW | Palau
+![ps](ps.png) | PS | Palestine, State of
+![pa](pa.png) | PA | Panama
+![pg](pg.png) | PG | Papua New Guinea
+![py](py.png) | PY | Paraguay
+![pe](pe.png) | PE | Peru
+![ph](ph.png) | PH | Philippines
+![pn](pn.png) | PN | Pitcairn
+![pl](pl.png) | PL | Poland
+![pt](pt.png) | PT | Portugal
+![pr](pr.png) | PR | Puerto Rico
+![qa](qa.png) | QA | Qatar
+![re](re.png) | RE | Réunion
+![ro](ro.png) | RO | Romania
+![ru](ru.png) | RU | Russian Federation
+![rw](rw.png) | RW | Rwanda
+![bl](bl.png) | BL | Saint Barthélemy
+![sh](sh.png) | SH | Saint Helena, Ascension and Tristan da Cunha
+![kn](kn.png) | KN | Saint Kitts and Nevis
+![lc](lc.png) | LC | Saint Lucia
+![mf](mf.png) | MF | Saint Martin (French part)
+![pm](pm.png) | PM | Saint Pierre and Miquelon
+![vc](vc.png) | VC | Saint Vincent and the Grenadines
+![ws](ws.png) | WS | Samoa
+![sm](sm.png) | SM | San Marino
+![st](st.png) | ST | Sao Tome and Principe
+![sa](sa.png) | SA | Saudi Arabia
+![sn](sn.png) | SN | Senegal
+![rs](rs.png) | RS | Serbia
+![sc](sc.png) | SC | Seychelles
+![sl](sl.png) | SL | Sierra Leone
+![sg](sg.png) | SG | Singapore
+![sx](sx.png) | SX | Sint Maarten (Dutch part)
+![sk](sk.png) | SK | Slovakia
+![si](si.png) | SI | Slovenia
+![sb](sb.png) | SB | Solomon Islands
+![so](so.png) | SO | Somalia
+![za](za.png) | ZA | South Africa
+![gs](gs.png) | GS | South Georgia and the South Sandwich Islands
+![ss](ss.png) | SS | South Sudan
+![es](es.png) | ES | Spain
+![lk](lk.png) | LK | Sri Lanka
+![sd](sd.png) | SD | Sudan
+![sr](sr.png) | SR | Suriname
+![sj](sj.png) | SJ | Svalbard and Jan Mayen
+![sz](sz.png) | SZ | Swaziland
+![se](se.png) | SE | Sweden
+![ch](ch.png) | CH | Switzerland
+![sy](sy.png) | SY | Syrian Arab Republic
+![tw](tw.png) | TW | Taiwan, Province of China
+![tj](tj.png) | TJ | Tajikistan
+![tz](tz.png) | TZ | Tanzania, United Republic of
+![th](th.png) | TH | Thailand
+![tl](tl.png) | TL | Timor-Leste
+![tg](tg.png) | TG | Togo
+![tk](tk.png) | TK | Tokelau
+![to](to.png) | TO | Tonga
+![tt](tt.png) | TT | Trinidad and Tobago
+![tn](tn.png) | TN | Tunisia
+![tr](tr.png) | TR | Turkey
+![tm](tm.png) | TM | Turkmenistan
+![tc](tc.png) | TC | Turks and Caicos Islands
+![tv](tv.png) | TV | Tuvalu
+![ug](ug.png) | UG | Uganda
+![ua](ua.png) | UA | Ukraine
+![ae](ae.png) | AE | United Arab Emirates
+![gb](gb.png) | GB | United Kingdom
+![us](us.png) | US | United States
+![um](um.png) | UM | United States Minor Outlying Islands
+![uy](uy.png) | UY | Uruguay
+![uz](uz.png) | UZ | Uzbekistan
+![vu](vu.png) | VU | Vanuatu
+![ve](ve.png) | VE | Venezuela, Bolivarian Republic of
+![vn](vn.png) | VN | Viet Nam
+![vg](vg.png) | VG | Virgin Islands, British
+![vi](vi.png) | VI | Virgin Islands, U.S.
+![wf](wf.png) | WF | Wallis and Futuna
+![eh](eh.png) | EH | Western Sahara
+![ye](ye.png) | YE | Yemen
+![zm](zm.png) | ZM | Zambia
+![zw](zw.png) | ZW | Zimbabwe
