@@ -214,7 +214,7 @@ fla9s
 ![sb](sb.png) | SB | Solomon Islands
 ![so](so.png) | SO | Somalia
 ![za](za.png) | ZA | South Africa
-![gs](gs.png) | GS | South Georgia and the South Sandwich Islands
+![gs](gs.png)/![gs0](gs0.png) | GS | South Georgia and the South Sandwich Islands
 ![ss](ss.png) | SS | South Sudan
 ![es](es.png) | ES | Spain
 ![lk](lk.png) | LK | Sri Lanka
