@@ -244,7 +244,7 @@ fla9s
 ![ae](ae.png) | AE | United Arab Emirates
 ![gb](gb.png) | GB | United Kingdom
 ![us](us.png) | US | United States
-![um](um.png) | UM | United States Minor Outlying Islands
+![um](um.png)![um-navassa](um-navassa.png)![um-palmyra](um-palmyra.png) | UM | United States Minor Outlying Islands
 ![uy](uy.png) | UY | Uruguay
 ![uz](uz.png) | UZ | Uzbekistan
 ![vu](vu.png) | VU | Vanuatu
