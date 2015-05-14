@@ -34,7 +34,7 @@ fla9s
 ![bm](bm.png) | BM | Bermuda
 ![bt](bt.png) | BT | Bhutan
 ![bo](bo.png) | BO | Bolivia, Plurinational State of
-![bq](bq.png) | BQ | Bonaire, Sint Eustatius and Saba
+![bq](bq.png) ![bq-bo](bq-bo.png) ![bq-sa](bq-sa.png) ![bq-se](bq-se.png) | BQ | Bonaire, Sint Eustatius and Saba
 ![ba](ba.png) | BA | Bosnia and Herzegovina
 ![bw](bw.png) | BW | Botswana
 ![bv](bv.png) | BV | Bouvet Island
