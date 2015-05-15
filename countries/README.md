@@ -47,7 +47,7 @@ fla9s
 ![kh](kh.png) | KH | Cambodia
 ![cm](cm.png) | CM | Cameroon
 ![ca](ca.png) | CA | Canada
-![cv](cv.png) | CV | Cabo Verd
+![cv](cv.png) | CV | Cabo Verde
 ![ky](ky.png) | KY | Cayman Islands
 ![cf](cf.png) | CF | Central African Republic
 ![td](td.png) | TD | Chad
