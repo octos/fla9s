@@ -33,7 +33,7 @@ fla9s
 ![bj](bj.png) | BJ | Benin
 ![bm](bm.png) | BM | Bermuda
 ![bt](bt.png) | BT | Bhutan
-![bo](bo.png) | BO | Bolivia, Plurinational State of
+![bo](bo.png) | BO | Bolivia
 ![bq](bq.png)![bq-bo](bq-bo.png)![bq-sa](bq-sa.png)![bq-se](bq-se.png) | BQ | Bonaire, Sint Eustatius and Saba
 ![ba](ba.png) | BA | Bosnia and Herzegovina
 ![bw](bw.png) | BW | Botswana
@@ -111,7 +111,7 @@ fla9s
 ![is](is.png) | IS | Iceland
 ![in](in.png) | IN | India
 ![id](id.png) | ID | Indonesia
-![ir](ir.png) | IR | Iran, Islamic Republic of
+![ir](ir.png) | IR | Iran
 ![iq](iq.png) | IQ | Iraq
 ![ie](ie.png) | IE | Ireland
 ![im](im.png) | IM | Isle of Man
@@ -152,8 +152,8 @@ fla9s
 ![mu](mu.png) | MU | Mauritius
 ![yt](yt.png) | YT | Mayotte
 ![mx](mx.png) | MX | Mexico
-![fm](fm.png) | FM | Micronesia, Federated States of
-![md](md.png) | MD | Moldova, Republic of
+![fm](fm.png) | FM | Micronesia
+![md](md.png) | MD | Moldova
 ![mc](mc.png) | MC | Monaco
 ![mn](mn.png) | MN | Mongolia
 ![me](me.png) | ME | Montenegro
@@ -177,7 +177,7 @@ fla9s
 ![om](om.png) | OM | Oman
 ![pk](pk.png) | PK | Pakistan
 ![pw](pw.png) | PW | Palau
-![ps](ps.png) | PS | Palestine, State of
+![ps](ps.png) | PS | Palestine
 ![pa](pa.png) | PA | Panama
 ![pg](pg.png) | PG | Papua New Guinea
 ![py](py.png) | PY | Paraguay
@@ -225,9 +225,9 @@ fla9s
 ![se](se.png) | SE | Sweden
 ![ch](ch.png) | CH | Switzerland
 ![sy](sy.png) | SY | Syrian Arab Republic
-![tw](tw.png) | TW | Taiwan, Province of China
+![tw](tw.png) | TW | Taiwan
 ![tj](tj.png) | TJ | Tajikistan
-![tz](tz.png) | TZ | Tanzania, United Republic of
+![tz](tz.png) | TZ | Tanzania
 ![th](th.png) | TH | Thailand
 ![tl](tl.png) | TL | Timor-Leste
 ![tg](tg.png) | TG | Togo
@@ -248,7 +248,7 @@ fla9s
 ![uy](uy.png) | UY | Uruguay
 ![uz](uz.png) | UZ | Uzbekistan
 ![vu](vu.png) | VU | Vanuatu
-![ve](ve.png) | VE | Venezuela, Bolivarian Republic of
+![ve](ve.png) | VE | Venezuela
 ![vn](vn.png) | VN | Viet Nam
 ![vg](vg.png) | VG | Virgin Islands, British
 ![vi](vi.png) | VI | Virgin Islands, U.S.
